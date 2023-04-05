@@ -1,0 +1,33 @@
+
+main{
+    margin: 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ! DEBUG */
+
+header, 
+footer{
+
+    height: 150px;
+    background-color: blue;
+}
+
+[class*="col"]{
+    min-height: 50px;
+    background-color: purple;
+    border: solid 2px wheat;
+}
