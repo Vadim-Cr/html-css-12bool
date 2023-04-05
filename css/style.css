@@ -3,6 +3,9 @@ main{
     margin: 20px 0;
 }
 
+.container1{
+    margin-bottom: 3rem;
+}
 
 
 
@@ -30,4 +33,13 @@ footer{
     min-height: 50px;
     background-color: purple;
     border: solid 2px wheat;
+}
+
+.nested{
+    display: flex;
+    padding: 0.3rem;
+}
+.acqua{
+    background-color: aqua;
+    min-height: 80%;
 }
